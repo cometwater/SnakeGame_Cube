@@ -1,0 +1,14 @@
+Library/
+obj/
+.idea/
+
+*.csproj
+*.sln
+*.DS_Store
+
+# Unity3D generated meta files
+*.pidb.meta
+*.pdb.meta
+
+# Builds
+*.unitypackage
